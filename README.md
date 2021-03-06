@@ -1,12 +1,12 @@
 # ML_Projects
 This is my personal repository where I upload projects and assignments that I have worked on.
 
-# File Descriptions
-**data:**
+# Folder Descriptions
+**data:** stores the datasets that I used for each project
 
-**sklearn:**
+**sklearn:** stores my projects/assignments where I used the sklearn library
 
-**pytorch:**
+**pytorch:** stores my projects/assignments where I used the pytorch library
 
-**tensorflow:**
+**tensorflow:** stores my projects/assignments where I used the tensorflow library
 
