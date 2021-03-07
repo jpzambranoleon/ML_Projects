@@ -10,3 +10,5 @@ This is my personal repository where I upload projects and assignments that I ha
 
 **tensorflow:** stores my projects/assignments where I used the tensorflow library
 
+**udacity:** stores the projects/assignments that I have worked on for my nanodegree
+
