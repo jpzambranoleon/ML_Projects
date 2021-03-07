@@ -2,7 +2,7 @@
 This is my personal repository where I upload projects and assignments that I have worked on.
 
 # Folder Descriptions
-**data:** stores the datasets that I used for each project
+**datasets:** stores the datasets that I used for each project
 
 **sklearn:** stores my projects/assignments where I used the sklearn library
 
