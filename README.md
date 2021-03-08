@@ -1,4 +1,4 @@
-![GitHub Logo](style_transfer.png)
+![GitHub Logo](ML_robot.png)
 
 # ML_Projects
 My personal repository for all of my Machine Learning projects and assignments
