@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://raw.githubusercontent.com/jpzambranoleon/ML_projects/master/profile_picture.png" width="200" height="400" />
+<img src="https://camo.githubusercontent.com/..." data-canonical-src="profile_picture.png" width="200" height="400" />
 
 # ML_Projects
 My personal repository for all of my Machine Learning projects and assignments
