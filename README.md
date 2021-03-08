@@ -1,6 +1,9 @@
 # ML_Projects
 This is my personal repository where I upload projects and assignments that I have worked on.
 
+![GitHub Logo](style_transfer.png)
+Format: ![Alt Text](url)
+
 # Folder Descriptions
 **datasets:** stores the datasets that I used for each project
 
