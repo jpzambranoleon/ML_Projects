@@ -1,4 +1,4 @@
-![](profile_picture.png | width=250)
+![](profile_picture.png)
 
 # ML_Projects
 My personal repository for all of my Machine Learning projects and assignments
