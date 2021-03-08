@@ -1,1 +1,1 @@
-<img src="style_transfer.png" alt="alt text" width="200" height="200">
+<img src="style_transfer.png" alt="alt text" width="400" height="400">
