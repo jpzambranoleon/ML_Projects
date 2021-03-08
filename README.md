@@ -1,4 +1,4 @@
-<img src="https://camo.githubusercontent.com/..." data-canonical-src="profile_picture.png" width="200" height="400" />
+<img src="profile_picture.png" alt="alt text" width="whatever" height="whatever">
 
 # ML_Projects
 My personal repository for all of my Machine Learning projects and assignments
