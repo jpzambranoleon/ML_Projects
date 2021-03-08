@@ -1,1 +1,1 @@
-![GitHub Logo](style_transfer.png)
+![GitHub Logo](ML_Projects/style_transfer.png)
