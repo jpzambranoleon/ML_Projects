@@ -3,8 +3,6 @@
 # ML_Projects
 My personal repository for all of my Machine Learning projects and assignments
 
-# Folder Descriptions
-
 Folder | Description
 ------ | -----------
 **datasets** | stores the datasets that I used for each project
