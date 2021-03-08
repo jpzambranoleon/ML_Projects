@@ -1,1 +1,1 @@
-![GitHub Logo](style_transfer.png)
+<img src="style_transfer.png" alt="alt text" width="200" height="200">
