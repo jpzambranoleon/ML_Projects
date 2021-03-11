@@ -4,3 +4,4 @@ This directory contains the projects I was assigned when I took the **DeepLearni
 * **fashion_mnist_classification**: build a classification model using convolutions to predict an item of clothig using the fashion mnist dataset.
 * **sarcasm_detection**: a classic nlp task build an RNN/LSTM model to predict wether a comment was sarcastic or not. 
 * **simple_regression**: build a simple tensorflow model with hidden layers for simple regression
+* **sunpot_time_series**: build an LSTM model for time series forcastig on sunspot data
