@@ -5,10 +5,10 @@ This repository contains code and associated files for building, training, and d
 
 ## Folders
 * **datasets**: Folder used to contain the various datasets that I have worked on.
-* **pytorch**: (https://github.com/jpzambranoleon/ML_Projects/tree/master/pytorch): Projects that I have worked on where I used the PyTorch library.
-* **sklearn**: (https://github.com/jpzambranoleon/ML_Projects/tree/master/sklearn): Projects that I have worked on where I used the scikit-learn library.
-* **tensorflow**: (https://github.com/jpzambranoleon/ML_Projects/tree/master/sklearn): Projects that I have worked on where I used the tensorflow library.
-* **udacity**: (https://github.com/jpzambranoleon/ML_Projects/tree/master/udacity): Projects/Assignments that I have completed while enrolled in Udacity Nanodegree program.
+* **pytorch**: Projects that I have worked on where I used the PyTorch library.
+* **sklearn**: Projects that I have worked on where I used the scikit-learn library.
+* **tensorflow**: Projects that I have worked on where I used the tensorflow library.
+* **udacity**: Projects/Assignments that I have completed while enrolled in Udacity Nanodegree program.
 
 ## Noticeable work
 * [sentiment_analysis_project](https://github.com/jpzambranoleon/ML_Projects/tree/main/udacity/ML_engineer_nanodegree/sentiment_analysis_project)
