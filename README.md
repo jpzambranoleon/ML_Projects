@@ -10,6 +10,6 @@ This repository contains code and associated files for building, training, and d
 * **tensorflow**: Projects that I have worked on where I used the tensorflow library.
 * **udacity**: Projects/Assignments that I have completed while enrolled in Udacity Nanodegree program.
 
-## Noticeable work
+## Noticeable Work
 * [sentiment_analysis_project](https://github.com/jpzambranoleon/ML_Projects/tree/main/udacity/ML_engineer_nanodegree/sentiment_analysis_project)
 * [plagiarism_detector_project](https://github.com/jpzambranoleon/ML_Projects/tree/main/udacity/ML_engineer_nanodegree/plagiarism_detector_project)
