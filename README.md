@@ -1,13 +1,9 @@
 <img src="profile_picture.png" alt="alt text" width="200" height="200">
 
-# ML_Projects
-My personal repository for all of my Machine Learning projects and assignments
+# Machine Learning with scikit-learn, PyTorch, and TensorFlow
+This repository contains code and associated files for building, training, and deploying ML models. This repository consists of a number of personal projects that I have worked on. Each project uses a variety of ML algorithms that I have practiced with.
 
-Folder | Description
------- | -----------
-**datasets** | stores the datasets that I used for each project
-**sklearn** | stores my projects/assignments where I used the sklearn library
-**pytorch** | stores my projects/assignments where I used the pytorch library
-**tensorflow** | stores my projects/assignments where I used the tensorflow library
-**udacity** | stores the projects/assignments that I have worked on for my nanodegree
+## Folders
+* [datasets](https://github.com/jpzambranoleon/ML_Projects/master/datasets): Folder used to contain the various datasets that I have worked on.
+* []
 
