@@ -5,5 +5,8 @@ This repository contains code and associated files for building, training, and d
 
 ## Folders
 * [datasets](https://github.com/jpzambranoleon/ML_Projects/master/datasets): Folder used to contain the various datasets that I have worked on.
+* [pytorch](https://github.com/jpzambranoleon/ML_Projects/master/pytorch): Projects that I have worked on where I used the PyTorch library.
+* [sklearn](https://github.com/jpzambranoleon/ML_Projects/master/sklearn): Projects that I have worked on where I used the scikit-learn library.
+* [tensorflow](https://github.com/jpzambranoleon/ML_Projects/master/sklearn): Projects that I have worked on where I used the tensorflow library.
 * []
 
