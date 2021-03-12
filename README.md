@@ -13,3 +13,4 @@ This repository contains code and associated files for building, training, and d
 ## Noticeable Work
 * [Sentiment Analysis Web App](https://github.com/jpzambranoleon/ML_Projects/tree/main/udacity/ML_engineer_nanodegree/sentiment_analysis_project)
 * [Plagiarism Detector](https://github.com/jpzambranoleon/ML_Projects/tree/main/udacity/ML_engineer_nanodegree/plagiarism_detector_project)
+* [FIFA UT Player Rating Prediction](https://towardsdatascience.com/fifa-ultimate-team-rating-prediction-machine-learning-project-3a02767fcb38)
